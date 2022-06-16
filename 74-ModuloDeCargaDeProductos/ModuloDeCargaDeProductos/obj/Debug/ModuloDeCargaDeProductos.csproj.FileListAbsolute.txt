@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\bin\Debug\ModuloDeCargaDeProductos.exe
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\bin\Debug\ModuloDeCargaDeProductos.pdb
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\obj\Debug\ModuloDeCargaDeProductos.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\obj\Debug\ModuloDeCargaDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\obj\Debug\ModuloDeCargaDeProductos.exe
+C:\Users\tauro\Desktop\ModuloDeCargaDeProductos\ModuloDeCargaDeProductos\obj\Debug\ModuloDeCargaDeProductos.pdb
